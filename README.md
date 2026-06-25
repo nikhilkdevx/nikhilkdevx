@@ -39,7 +39,7 @@ A production-ready property listing platform built with the MERN backend ecosyst
 
 🌐 **Live Demo:** *(https://wanderlust-97aa.onrender.com/listings)*
 
-📂 **Repository:** *(https://github.com/nikhildevx/WanderLust)*
+📂 **Repository:** *(https://github.com/nikhilkdevx/WanderLust.git)*
 
 ---
 
