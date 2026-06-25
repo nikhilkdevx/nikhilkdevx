@@ -1,92 +1,113 @@
-# Hi, I'm Nikhil 👋
+# 👋 Hi, I'm Nikhil Kumar
 
 ### Computer Science Student @ BITS Pilani
 
+**Full-Stack Developer | MERN Stack | Data Structures & Algorithms**
+
+I enjoy building production-ready web applications that combine clean architecture, secure backend systems, and intuitive user experiences.
+
 Currently focused on:
 
-- Data Structures & Algorithms
-- Full Stack Development
-- Building Real-World Projects
-- Writing Clean and Maintainable Code
+* 🚀 Building real-world full-stack projects
+* 🧠 Mastering Data Structures & Algorithms
+* ⚡ Writing clean, maintainable backend code
+* 📚 Continuously improving system design fundamentals
 
 ---
 
-## 🚀 Tech Stack
+# 🏆 Featured Project
 
-**Languages**
+## 🏡 Wanderlust — Airbnb Inspired Full-Stack Platform
 
-- C++
-- JavaScript
+A production-ready property listing platform built with the MERN backend ecosystem featuring authentication, authorization, image uploads, reviews, interactive maps, and secure session management.
 
-**Frontend**
+### Highlights
 
-- HTML
-- CSS
-- Bootstrap
-- DOM Manipulation
-- REST API Integration
+* Secure User Authentication
+* Role-based Authorization
+* Property Listings CRUD
+* Reviews & Ratings
+* Cloudinary Image Uploads
+* Interactive Maps
+* Session Management
+* Flash Messaging
+* Server-side Validation
+* MVC Architecture
+* MongoDB Relationships
+* Responsive UI
+* Live Deployment on Render
 
-**Backend**
+🌐 **Live Demo:** *(Add Link)*
 
-- Node.js (Learning)
-
-**Tools**
-
-- Git
-- GitHub
-- VS Code
-- Command Line Interface (CLI)
-
----
-
-## 💻 Featured Projects
-
-### Portfolio Website
-
-Personal portfolio website showcasing projects, skills, and achievements.
-
-**Tech:** HTML, CSS, JavaScript, Bootstrap
+📂 **Repository:** *(Add Link)*
 
 ---
 
-### Weather Application
+# 💻 Tech Stack
 
-Weather dashboard using external APIs and asynchronous JavaScript.
+### Languages
 
-**Tech:** HTML, CSS, JavaScript, REST API
+* C++
+* JavaScript
+
+### Frontend
+
+* HTML5
+* CSS3
+* Bootstrap
+* EJS
+
+### Backend
+
+* Node.js
+* Express.js
+* Passport.js
+* REST APIs
+
+### Database
+
+* MongoDB
+* Mongoose
+
+### Cloud & Deployment
+
+* Cloudinary
+* Render
+* MongoDB Atlas
+
+### Tools
+
+* Git
+* GitHub
+* VS Code
+* CLI
 
 ---
 
-### Password Generator
+# 📚 Currently Learning
 
-Custom password generator with configurable options and dynamic DOM updates.
-
-**Tech:** HTML, CSS, JavaScript
-
----
-
-### Rock Paper Scissors Game
-
-Interactive browser game with score tracking and game logic.
-
-**Tech:** HTML, CSS, JavaScript
+* Advanced Data Structures & Algorithms
+* React
+* TypeScript
+* System Design
+* Performance Optimization
 
 ---
 
-## 📚 Currently Learning
+# 🎯 2026 Goals
 
-- Data Structures & Algorithms
-- Node.js
-- Express.js
-- React.js
-- Full Stack Development
+* Solve 200+ DSA Problems
+* Build 5 Production-Ready Projects
+* Secure a Software Engineering Internship
+* Contribute to Open Source
+* Become a Strong SDE
 
 ---
 
-## 📫 Connect With Me
+# 📫 Connect With Me
 
-LinkedIn:
-www.linkedin.com/in/nikhilkumarkeshari
+💼 LinkedIn: *(www.linkedin.com/in/nikhilkumarkeshari)*
 
-Email:
-nkdevx.tech@gmail.com
+📧 Email: *(nkdevx.tech@gmail.com)*
+
+🌐 Portfolio: *(Coming Soon)*
