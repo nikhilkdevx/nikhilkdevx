@@ -2,44 +2,70 @@
 
 ### Computer Science Student @ BITS Pilani
 
-**Full-Stack Developer | MERN Stack | Data Structures & Algorithms**
+**Full-Stack Developer | Backend Development | MERN Stack | Data Structures & Algorithms**
 
-I enjoy building production-ready web applications that combine clean architecture, secure backend systems, and intuitive user experiences.
+I build full-stack and backend applications with a focus on clean architecture, authentication, authorization, data modeling, and real-world application workflows.
 
 Currently focused on:
 
-* 🚀 Building real-world full-stack projects
-* 🧠 Mastering Data Structures & Algorithms
-* ⚡ Writing clean, maintainable backend code
-* 📚 Continuously improving system design fundamentals
+- 🚀 Building and deploying real-world web applications
+- ⚛️ Developing applications with React and Tailwind CSS
+- 🧠 Strengthening Data Structures & Algorithms with C++
+- ⚡ Deepening my understanding of backend architecture and system design
+- 📚 Continuously improving through project-based learning
 
 ---
 
-# 🏆 Featured Project
+# 🏆 Featured Projects
 
-## 🏡 Wanderlust — Airbnb Inspired Full-Stack Platform
+## 🏡 WanderLust — Full-Stack Property Booking Platform
 
-A production-ready property listing platform built with the MERN backend ecosystem featuring authentication, authorization, image uploads, reviews, interactive maps, and secure session management.
+A full-stack Airbnb-inspired property booking platform featuring authentication, authorization, property listings, image uploads, reviews, interactive maps, and session management.
 
 ### Highlights
 
-* Secure User Authentication
-* Role-based Authorization
-* Property Listings CRUD
-* Reviews & Ratings
-* Cloudinary Image Uploads
-* Interactive Maps
-* Session Management
-* Flash Messaging
-* Server-side Validation
-* MVC Architecture
-* MongoDB Relationships
-* Responsive UI
-* Live Deployment on Render
+- User Authentication with Passport.js
+- Authorization and Resource Ownership
+- Property Listings CRUD
+- Reviews & Ratings
+- Image Uploads with Multer & Cloudinary
+- Geocoding & Interactive Maps
+- MongoDB Relationships
+- Server-side Validation
+- Centralized Error Handling
+- MVC Architecture
+- Session Management
+- Responsive UI
+- Deployed on Render with MongoDB Atlas
 
-🌐 **Live Demo:** *(https://wanderlust-97aa.onrender.com/listings)*
+🌐 **Live Demo:** https://wanderlust-97aa.onrender.com/listings
 
-📂 **Repository:** *(https://github.com/nikhilkdevx/WanderLust.git)*
+📂 **Repository:** https://github.com/nikhilkdevx/WanderLust
+
+---
+
+## 🔐 BITS Backend — Role-Based Course Management API
+
+A RESTful backend system built to understand authentication, authorization, ownership-based access control, course management, and structured backend architecture.
+
+### Highlights
+
+- JWT-based Authentication
+- Role-Based Authorization
+- Ownership-Based Access Control
+- Student, Professor & Admin Roles
+- Course Creation & Management
+- Course Enrollment & De-enrollment
+- Middleware-Based Request Authorization
+- Joi Server-side Validation
+- Centralized Error Handling
+- MongoDB & Mongoose
+- RESTful API Architecture
+- Deployed Backend API
+
+🌐 **Live API:** https://bits-backend-mq00.onrender.com
+
+📂 **Repository:** https://github.com/nikhildevx/BITS-Backend
 
 ---
 
@@ -47,67 +73,72 @@ A production-ready property listing platform built with the MERN backend ecosyst
 
 ### Languages
 
-* C++
-* JavaScript
+- C++
+- JavaScript
 
 ### Frontend
 
-* HTML5
-* CSS3
-* Bootstrap
-* EJS
+- React
+- Tailwind CSS
+- HTML5
+- CSS3
+- Bootstrap
+- EJS
 
 ### Backend
 
-* Node.js
-* Express.js
-* Passport.js
-* REST APIs
+- Node.js
+- Express.js
+- REST APIs
+- Passport.js
+- JWT
+- Middleware Architecture
 
 ### Database
 
-* MongoDB
-* Mongoose
+- MongoDB
+- MongoDB Atlas
+- Mongoose
 
-### Cloud & Deployment
+### Tools & Services
 
-* Cloudinary
-* Render
-* MongoDB Atlas
-
-### Tools
-
-* Git
-* GitHub
-* VS Code
-* CLI
+- Git
+- GitHub
+- Cloudinary
+- Multer
+- Render
+- VS Code
+- CLI
 
 ---
 
-# 📚 Currently Learning
+# 🧠 What I'm Working On
 
-* Advanced Data Structures & Algorithms
-* React
-* TypeScript
-* System Design
-* Performance Optimization
+- Data Structures & Algorithms
+- React Development
+- Backend Architecture
+- System Design Fundamentals
+- Building and deploying full-stack applications
+- Writing clean, maintainable code
 
 ---
 
 # 🎯 2026 Goals
 
-* Solve 200+ DSA Problems
-* Build 5 Production-Ready Projects
-* Secure a Software Engineering Internship
-* Contribute to Open Source
-* Become a Strong SDE
+- 🧠 Become strong in Data Structures & Algorithms
+- 🚀 Build more production-oriented applications
+- ⚛️ Deepen my React and frontend development skills
+- 🏗️ Strengthen backend and system design fundamentals
+- 🤝 Contribute to open-source projects
+- 💼 Secure a Software Engineering Internship
+- 📈 Continue learning by building real-world systems
 
 ---
 
 # 📫 Connect With Me
 
-💼 LinkedIn: *(www.linkedin.com/in/nikhilkumarkeshari)*
+💼 **LinkedIn:** www.linkedin.com/in/nikhilkumarkeshari
 
-📧 Email: *(nkdevx.tech@gmail.com)*
+📧 **Email:** nkdevx.tech@gmail.com
 
-🌐 Portfolio: *(Coming Soon)*
+🌐 **Portfolio:** Coming Soon
