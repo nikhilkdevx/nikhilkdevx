@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Nikhil Kumar
 
 ### Computer Science Student @ BITS Pilani
-Current CGPA (8.99)
+
 
 **Full-Stack Developer | Backend Development | MERN Stack | Data Structures & Algorithms**
 
