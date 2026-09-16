@@ -2,8 +2,6 @@
 
 ### Computer Science Student @ BITS Pilani
 
-CGPA (8.99)
-
 **Full-Stack Developer | Backend Development | MERN Stack | Data Structures & Algorithms**
 
 I build full-stack and backend applications with a focus on clean architecture, authentication, authorization, data modeling, and real-world application workflows.
